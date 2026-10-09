@@ -1,0 +1,2 @@
+# premium-keel-lay-001-keel-scarph-joint-and-bolt-pat
+Scarph joint calculations and bolt pattern layouts are eating up hours of your keel laying workflow. Stop guessing on joint angles and bolt spacing — get a proven system that eliminates costly mistakes before they happen.  The Keel Scarph Joint and Bolt Pattern Guide is a pre-built Notion template designed specifically for keel laying professionals
